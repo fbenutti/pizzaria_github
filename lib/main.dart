@@ -22,6 +22,9 @@ class MainPage extends StatelessWidget {
       title: "Pizzaria Mai'que pizza",
       home: SplashScreenPage(),
       routes: routes,
+
+      //Adicionando um comentário pra poder modificar depois.
+
     );
   }
 }
